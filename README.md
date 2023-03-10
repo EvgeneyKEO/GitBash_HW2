@@ -68,7 +68,7 @@ cat >> tf_3.txt
  11. Через cat добавить в текстовый файл tf_2.txt строку “the sec 3” 
  
  ```
- cat >> /e/qa/dir_1/tf_2.txt
+ cat >> dir_1/tf_2.txt
  the sec 3
  ```
  
@@ -86,7 +86,7 @@ cat >> tf_3.txt
 13. Через cat добавить в текстовый файл tf_2.txt строку “the seConD 2” 
  
  ```
- cat >> /e/qa/dir_1/tf_2.txt
+ cat >> dir_1/tf_2.txt
  the seConD 2
  ```
  
